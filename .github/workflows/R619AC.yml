@@ -356,7 +356,7 @@ jobs:
                 # CONFIG_KERNEL_PROVE_LOCKING is not set
                 CONFIG_KERNEL_PRINTK_TIME=y
                 # CONFIG_KERNEL_SLABINFO is not set
-                # CONFIG_KERNEL_PROC_PAGE_MONITOR is not set
+                # CONFIG_KERNEL_PROC_PAGE_MONITOR is not set 
                 CONFIG_KERNEL_KEXEC=y
                 CONFIG_KERNEL_PROC_VMCORE=y
                 CONFIG_KERNEL_CRASH_DUMP=y
